@@ -1,4 +1,4 @@
-# Frontend developer test assignment
+# fronted-test-assignment
 
 Tasks
 
@@ -16,3 +16,25 @@ It is not nesessary to base on TestTask.vue, you can write everything your way.
 
 Commit your work to a public git repo and send a link to admin@insightcat.com
 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
